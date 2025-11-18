@@ -1,0 +1,1 @@
+module.exports={content:["./pages/**/*.{js,jsx}","./home.js"],theme:{extend:{}},plugins:[]};
